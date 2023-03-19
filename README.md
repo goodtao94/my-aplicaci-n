@@ -1,10 +1,10 @@
 
 # Proyecto Electiva de Profundización I - Creación de APIS
-## Integrantes
+## Integrante:
 
-* Nombres Apellido [@goodtao94](https://github.com/goodtao94)
+* Gustavo Mendoza [@goodtao94](https://github.com/goodtao94)
 
-## Sprint # 1
+## Sprint # 1. 
 ### Historias de Usuario
 
 Transcripción de las historias de usuario (Imágenes, enlaces).
