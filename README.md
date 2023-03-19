@@ -1,3 +1,21 @@
+
+# Proyecto Electiva de Profundización I - Creación de APIS
+## Integrantes
+
+* Nombres Apellido [@goodtao94](https://github.com/goodtao94)
+
+## Sprint # 1
+### Historias de Usuario
+
+Transcripción de las historias de usuario (Imágenes, enlaces).
+
+### Historias Técnicas
+
+Transcripción de las historias técnicas (Imágenes, enlaces).
+
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
