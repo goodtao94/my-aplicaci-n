@@ -9,11 +9,16 @@ export class AppService {
   getHello(): string {
     return 'Hello World!';
   }
-
   getName(): string {
-    return 'Mi nombre es Gustavo';
+    return 'Mi nombre es Gustavo Mendoza';
   }
-  getProducts(limit: number, offset: number): string {
-    return `Productos desde el id ${offset}, cantidad de elementos a mostrar ${limit}`;
+  getProfesora(): string {
+    return 'La Profesora es ANGIE DURLEY VALERA ALARCON';
+  }
+  getAlumnos(limit: number, offset: number): string {
+    return `Alumnos desde el id ${offset}, cantidad de Alumnos a mostrar ${limit}`;
+  }
+  getEstudiante(name, carrera): string {
+    return `El nombre del alumno es ${name}, de la carrera ${carrera}`;
   }
 }
