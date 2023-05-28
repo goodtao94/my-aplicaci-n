@@ -13,7 +13,7 @@ Transcripción de las historias de usuario (Imágenes, enlaces).
 
 Transcripción de las historias técnicas (Imágenes, enlaces).
 
-
+<img src="https://my-aplicacion/emaus.png/
 
 
 <p align="center">
