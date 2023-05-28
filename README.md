@@ -2,7 +2,7 @@
 # Proyecto Electiva de Profundización - Creación de APIS
 ## Integrante:
 
-* Gustavo Mendoza [@goodtao94](https://github.com/goodtao94)
+* Gustavo Mendoz [@goodtao94](https://github.com/goodtao94)
 
 ## Sprint # 1. 
 ### Historias de Usuario
