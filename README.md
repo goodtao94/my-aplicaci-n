@@ -1,5 +1,5 @@
 
-# Proyecto Electiva de Profundización I - Creación de APIS
+# Proyecto Electiva de Profundización - Creación de APIS
 ## Integrante:
 
 * Gustavo Mendoza [@goodtao94](https://github.com/goodtao94)
@@ -12,7 +12,6 @@ Transcripción de las historias de usuario (Imágenes, enlaces).
 ### Historias Técnicas
 
 Transcripción de las historias técnicas (Imágenes, enlaces).
-
 
 
 
