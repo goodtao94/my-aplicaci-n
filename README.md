@@ -3,7 +3,7 @@
 ## Integrante:
 
 * Gustavo Mendoza [@goodtao94](https://github.com/goodtao94)
-
+![Captura](https://github.com/goodtao94/my-aplicaci-n/assets/81250395/c9638d6a-8afb-4880-9dfe-68d485d5571b)
 ## Sprint # 1. 
 ### Historias de Usuario
 
